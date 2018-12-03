@@ -10,7 +10,7 @@ namespace DawnApi\route;
 use  think\App;
 use think\Route;
 use think\Request;
-use  DawnApi\controller\Wiki;
+use  dawnapi\controller\Wiki;
 
 class DawnRoute
 {

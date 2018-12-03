@@ -8,7 +8,7 @@
 
 namespace DawnApi\controller;
 
-use DawnApi\facade\Doc;
+use dawnapi\facade\Doc;
 
 class Wiki extends Doc
 {

@@ -9,7 +9,7 @@
 
 namespace DawnApi\facade;
 
-use DawnApi\helper\Tree;
+use dawnapi\helper\Tree;
 use think\Config;
 use think\Request;
 use think\Response;

@@ -10,7 +10,7 @@
 namespace DawnApi\auth;
 
 
-use DawnApi\exception\UnauthorizedException;
+use dawnapi\exception\UnauthorizedException;
 use think\Exception;
 use think\Request;
 
