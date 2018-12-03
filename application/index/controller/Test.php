@@ -5,6 +5,7 @@ use think\Request;
 
 Class Test{
 	public function index(){
+      return 1; exit;
          $request = Request::instance();
           // 是否为 GET 请求
          if (Request::instance()->isGet()) echo "当前为 GET 请求";

@@ -30,7 +30,6 @@ class User extends Base
      */
     public function get(Request $request)
     {
-
         $user = self::$app['auth']->getUser();
         // todo find
         return $this->sendSuccess(['name' => 'dawn-api', 'id' => 1, 'user' => $user]);
