@@ -1,0 +1,149 @@
+---------------------------------------------------------------
+[ 2018-11-30T10:57:18+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Class app\demo\auth\Auth contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (DawnApi\contract\AuthContract::getClient)
+---------------------------------------------------------------
+[ 2018-11-30T10:57:41+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Class app\demo\auth\Auth contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (DawnApi\contract\AuthContract::getClient)
+---------------------------------------------------------------
+[ 2018-11-30T10:57:41+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Class app\demo\auth\Auth contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (DawnApi\contract\AuthContract::getClient)
+---------------------------------------------------------------
+[ 2018-11-30T10:59:52+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Class app\index\auth\Auth contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (DawnApi\contract\AuthContract::getClient)
+---------------------------------------------------------------
+[ 2018-11-30T10:59:53+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Class app\index\auth\Auth contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (DawnApi\contract\AuthContract::getClient)
+---------------------------------------------------------------
+[ 2018-11-30T15:12:28+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T15:55:08+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T15:55:09+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T15:55:09+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:02:53+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:04:11+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:04:12+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:04:12+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:04:12+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:04:13+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:04:13+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:04:13+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:04:13+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/authenticate
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:08:57+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/accessToken
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:09:57+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/auth/accessToken
+[ error ] [1]Interface 'dawnapi\src\contract\AuthContract' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:13:59+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:14:11+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:14:30+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:14:31+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:14:31+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:14:43+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:14:44+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:14:44+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:14:45+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:14:45+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:14:45+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:15:31+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:16:34+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:16:34+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:16:34+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:19:30+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:19:31+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:19:31+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:19:55+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/link/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014001s ] mysql:host=127.0.0.1;port=3306;dbname=;charset=utf8
+[ sql ] [ SQL ] select version() [ RunTime:0.002000s ]
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2018-11-30T16:20:10+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/link/index
+[ error ] [8]Use of undefined constant i - assumed 'i'
+---------------------------------------------------------------
+[ 2018-11-30T16:20:11+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/link/index
+[ error ] [8]Use of undefined constant i - assumed 'i'
+---------------------------------------------------------------
+[ 2018-11-30T16:21:37+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:21:42+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/receive/index
+[ error ] [64]Namespace declaration statement has to be the very first statement or after any declare call in the script
+---------------------------------------------------------------
+[ 2018-11-30T16:24:03+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/Base/index
+[ error ] [1]Class 'dawnapi\src\facade\Api' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:25:06+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/User/get
+[ error ] [1]Class 'dawnapi\src\facade\Api' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:25:16+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/User/get
+[ error ] [1]Class 'dawnapi\src\facade\Api' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:25:17+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/User/get
+[ error ] [1]Class 'dawnapi\src\facade\Api' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:27:25+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/User/get
+[ error ] [1]Class 'dawnapi\src\facade\Api' not found
+---------------------------------------------------------------
+[ 2018-11-30T16:27:25+08:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/User/get
+[ error ] [1]Class 'dawnapi\src\facade\Api' not found

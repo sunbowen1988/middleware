@@ -1,0 +1,20 @@
+---------------------------------------------------------------
+[ 2018-11-29T07:22:47+00:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/index/index
+[运行时间：0.039002s] [吞吐率：25.64req/s] [内存消耗：1,305.89kb] [文件加载：33]
+[ error ] [4]syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'[D:\PHPTutorial\WWW\tp5\application\extra\api.php:13]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-29T07:22:53+00:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/index/index
+[运行时间：0.023002s] [吞吐率：43.47req/s] [内存消耗：1,305.88kb] [文件加载：33]
+[ error ] [4]syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'[D:\PHPTutorial\WWW\tp5\application\extra\api.php:13]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-29T07:23:03+00:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/index/index
+[运行时间：0.038002s] [吞吐率：26.31req/s] [内存消耗：1,305.88kb] [文件加载：33]
+[ error ] [4]syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'[D:\PHPTutorial\WWW\tp5\application\extra\api.php:13]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-29T07:23:06+00:00 ] 0.0.0.0 GET localhost/tp5/public/index.php/index/index/index
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,305.88kb] [文件加载：33]
+[ error ] [4]syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'[D:\PHPTutorial\WWW\tp5\application\extra\api.php:13]
+[ info ] [ LOG ] INIT File
