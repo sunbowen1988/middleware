@@ -22,8 +22,15 @@ class Index extends Controller
 
     public function call(){
 
-       $user = User::tablename();
-       //$users = $user->tablename();
-       return $user;
+       //$user = User::tablename();
+         $user = new User;
+         $users = $user->tablename();
+         return $users;
+    }
+
+    public function jsonsequence(){
+    	//return 1; exit;
+    	$user = User::tablename(1);
+    	return $this->toJson($user);
     }
 }

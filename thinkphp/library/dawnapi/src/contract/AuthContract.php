@@ -12,7 +12,6 @@ use think\Request;
 interface AuthContract
 {
 
-
     /**
      * 认证授权通过客户端信息和路由等
      * @param Request $request

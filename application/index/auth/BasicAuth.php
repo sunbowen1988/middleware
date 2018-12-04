@@ -31,6 +31,7 @@ class BasicAuth extends Basic
      */
     public function getUser()
     {
+        return 1; exit;
         // TODO: Implement getUser() method.
     }
 
