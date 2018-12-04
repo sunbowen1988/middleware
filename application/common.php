@@ -6,8 +6,9 @@
 // +----------------------------------------------------------------------
 // | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
 // +----------------------------------------------------------------------
-// | Author: 流年 <liu21st@gmail.com>
+// | Author: sunbowen
 // +----------------------------------------------------------------------
+
 
 // 应用公共文件
 /**
@@ -17,11 +18,11 @@
  *@return param string $message
  */
 
-function json($data = [], $code, $message = ''){
+function outjson($code, $message = '', $data = []){
    $result = [];
-   $result['data'] = $data;
    $result['code'] = $code;
    $result['message'] = $message;
+   $result['data'] = $data;
    header('Content-Type:application/json;charset=utf-8');
    return json_encode($result);
 }
