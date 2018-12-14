@@ -1,14 +1,10 @@
 <?php
-// +----------------------------------------------------------------------
-// | When work is a pleasure, life is a joy!
-// +----------------------------------------------------------------------
-// +----------------------------------------------------------------------
-// | TITLE: this to do?
-// +----------------------------------------------------------------------
-
+/**
+ *@author sunbowen
+ *basic
+ */
 
 namespace dawnapi\src\auth;
-
 
 use dawnapi\src\contract\AuthContract;
 use dawnapi\src\contract\UnauthorizedException;
