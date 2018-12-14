@@ -1,7 +1,7 @@
 <?php
 /**
  *@author sunbowen
- *@controllername 控制器类
+ * 控制器类
  */
 
 namespace app\index\controller;
